@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ResumeForage/static/css/main.b6fc9efc.css",
+    "main.js": "/ResumeForage/static/js/main.0efe3b09.js",
+    "static/media/resume.svg": "/ResumeForage/static/media/resume.747b0dd9d4a36a4fe054ab84b590ebfb.svg",
+    "index.html": "/ResumeForage/index.html",
+    "main.b6fc9efc.css.map": "/ResumeForage/static/css/main.b6fc9efc.css.map",
+    "main.0efe3b09.js.map": "/ResumeForage/static/js/main.0efe3b09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6fc9efc.css",
+    "static/js/main.0efe3b09.js"
+  ]
+}
